@@ -5,7 +5,7 @@
 ## I'm a Developer, Mentor and an Artist!
 
 - 🔭 I’m a full stack developer helping enterprise to transition and transform apps for smooth GitOps adoption
-- 🌱 I’m currently learning containerization and cloud technologies
+- 🌱 I’m currently working on containerizing and migrating java/angular apps to AWS
 - 👯 I’m looking to work for companies who code responsibly
 - 🥅 2021 Goals: Be a product owner
 - ⚡ Fun fact: I write songs when I'm bored
